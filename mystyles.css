@@ -1,0 +1,34 @@
+#main {
+    width:800px;
+    margin:auto;
+    border:red solid 1px;
+    overflow:auto;
+}
+
+#header{
+    text-align:center;
+    border:green solid 1px; 
+}
+
+#menu{
+    height:40px;
+    border:green solid 1px;
+    text-align:right;
+
+
+}
+
+#bloggerlist{
+    float:left;
+    width:100px;
+
+}
+
+
+#content{
+    float:left;
+    width:676px;
+    border:black solid 1px;
+    padding:10px
+}
+
